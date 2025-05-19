@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![License Badge](https://img.shields.io/github/license/mmeii/weather-dashboard) ![Top Language](https://img.shields.io/github/languages/top/mmeii/weather-dashboard)
+![License Badge](https://img.shields.io/github/license/lahari/weather-dashboard) ![Top Language](https://img.shields.io/github/languages/top/lahari/weather-dashboard)
 
 This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
 
@@ -56,8 +56,8 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 
 ## Websites
 
-* [Github](https://github.com/mmeii/weather-dashboard)
-* [Deployed](https://mmeii.github.io/weather-dashboard/)
+* [Github](https://github.com/lahari/weather-dashboard)
+* [Deployed](https://lahari.github.io/weather-dashboard/)
 
 ## License
 
